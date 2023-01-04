@@ -1,0 +1,7 @@
+Algorithm, MSE
+Ridge,978.15
+Lasso,980.795
+KNN,508.284
+PR, 11303.44
+DT,377.58
+SVM,1036.088
